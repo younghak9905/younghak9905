@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![younghak9905u's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghak9905&count_private=true&include_all_commits=true)](https://github.com/younghak9905/github-readme-stats)
+[![younghak9905u's GitHub stats](https://github-readme-stats.vercel.app/api?username=younghak9905&count_private=true&include_all_commits=true&orgs=acme,evilcorp,fsociety)](https://github.com/younghak9905/github-readme-stats)
